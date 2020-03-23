@@ -22,7 +22,7 @@ html {
 
 body {
   background-color: #353b43;
-  font-family: "AvenirLTStd-Medium", sans-serif;
+  font-family: "AvenirLTStd-Medium", "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
 }
@@ -34,12 +34,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  font-family: "AvenirLTStd-Medium", sans-serif;
+  font-family: "AvenirLTStd-Medium", "Quattrocento Sans", sans-serif;
   color: #afbac4;
 }
 
 p {
-  font-family: "AvenirLTStd-Medium", sans-serif;
+  font-family: "AvenirLTStd-Medium", "Quattrocento Sans", sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -356,7 +356,7 @@ a:hover {
 .header-bradcrumb .active {
   color: #cfcfcf;
   font-weight: 200;
-  font-family: "AvenirLTStd-Medium", sans-serif;
+  font-family: "AvenirLTStd-Medium", "Quattrocento Sans", sans-serif;
 }
 
 .header-bradcrumb a:hover {

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Eureka Trading"
+  content : "专业的加密货币衍生品发行商"
+  button:
+    enable : true
+    label : "了解更多"
+    link : "#services"

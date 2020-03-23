@@ -1,0 +1,14 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Business
+  service_item :
+    # service item loop
+    - name : Financial derivatives
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Specialized in the design of financial derivatives in crypto space, with full-set consulting service.
+
+    # service item loop
+    - name : Others
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Provide high-quality quantitative trading, hedging and exchange services.

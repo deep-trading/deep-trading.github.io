@@ -1,0 +1,14 @@
+################################# Service #################################
+service:
+  enable : true
+  title : 核心业务
+  service_item :
+    # service item loop
+    - name : 加密货币衍生品
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : 专注于加密货币衍生品的设计、咨询等全案服务。
+
+    # service item loop
+    - name : 其他服务
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : 提供高质量的基于加密货币的量化交易、对冲套利、流动性服务。

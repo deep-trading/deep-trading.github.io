@@ -1,0 +1,7 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : What is Eureka
+  content : "Eureka, a famous exclamation attributed to Archimedes, used to celebrate a discovery or invention. Eureka moment refers to the moment of discovery. We name ourselves Eureka in memory of all the Eureka moments we had throughout the whole journey."

@@ -1,0 +1,7 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : 什么是Eureka
+  content : "Eureka，意为“我发现了”，来源于阿基米德发现浮力原理时候的感叹词。后多用于科学，Eureka Moment 也就成为灵光一闪的时刻的意思。我们以此为用以纪念一路走来属于我们自己的一个个 Eureka Moments。"

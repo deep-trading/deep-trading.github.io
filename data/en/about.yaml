@@ -1,0 +1,15 @@
+about:
+  enable: true
+  title: About us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Industrial Experience
+    content: Equipped with 2 years’ experience, 10+ top industrial partners, and steady operational tracking records!
+
+  - icon: ti-stats-up
+    title: Financial Team
+    content: The financial team consists of members with PhD in financial engineering and engages in the derivates in traditional finance and crypto space for a long time.
+
+  - icon: ti-hummer
+    title: Technical Team
+    content: The technical team are from Alibaba, Ant Finance, Netease and etc, with various experience in large-scale backend and frontend development.

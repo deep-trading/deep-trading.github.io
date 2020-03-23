@@ -1,0 +1,18 @@
+- id: blogTitle
+  translation: 最新日志
+- id: readMore
+  translation: 阅读更多
+- id: viewAllPost
+  translation: 查看所有日志
+- id: share
+  translation: 分享
+- id: aboutAuthor
+  translation: 关于作者
+- id: authorsPosts
+  translation: 作者的日志
+- id: submit
+  translation: 提交
+- id: all
+  translation: 全部
+- id: copyright
+  translation: Copyright &copy; 2020 [Eureka Trading](https://eureka.trading) 版权所有

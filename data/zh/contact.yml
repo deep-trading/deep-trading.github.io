@@ -1,0 +1,11 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : 联系我们
+  subtitle : 联系方式
+  content : ""
+  form_action: "#" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: bd@eureka.trading"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://eureka.trading/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eureka.trading/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eureka.trading/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eureka.trading/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eureka.trading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eureka.trading/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eureka.trading/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eureka.trading/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eureka.trading/en/tags/"
+                />
+  </url>
+  
+</urlset>

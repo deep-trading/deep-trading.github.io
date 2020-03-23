@@ -68,7 +68,7 @@ weight = 5
 #### external / static link ####
 [[menu.static]]
 name = "Login"
-URL = "https://eureka.trading/dashboard"
+URL = "https://dashboard.eureka.trading/"
 weight = 6
 
 ############################# Default Parameters ##########################
